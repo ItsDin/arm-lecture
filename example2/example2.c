@@ -9,7 +9,7 @@ int main(void)
 	int a, b, c, d;
 	a = 10;
 	b = 14;
-	c = 3;
+	c = 5;
 	d = multiply(a,b);
 	printf("a * b is %d\n", d);
 	d = multiplyadd(a,b,c);
